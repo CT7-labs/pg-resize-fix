@@ -1,6 +1,6 @@
 # Pygame Resize Fix
 
-Just a thing I threw together in 10 minutes after finding [this on StackOverflow]([url](https://stackoverflow.com/questions/64543449/update-during-resize-in-pygame))
+Just a thing I threw together in 10 minutes after finding [this on StackOverflow](https://stackoverflow.com/questions/64543449/update-during-resize-in-pygame)
 
 # Useage
 
